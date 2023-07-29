@@ -30,6 +30,36 @@
       "singer": "88 Risings ft. Joji, Rich Brian, Higher Brothers",
       "image": "https://video-images.vice.com/_uncategorized/1541087848225-88-rising-6.jpeg",
       "file": "song_05"
+    },
+    {
+      "title": "Air Supply - All Out Of Love",
+      "singer": " Air Supply",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Air_Supply_2023.jpg",
+      "file": "song_06"
+    },
+    {
+      "title": "Akon - Bananza (Belly Dancer)",
+      "singer": "Akon",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/01/13/1401129370.jpg",
+      "file": "song_07"
+    },
+    {
+      "title": "Alice In Chains - Down in a Hole",
+      "singer": "Alice In Chains",
+      "image": "https://variety.com/wp-content/uploads/2022/11/CK52475_00196_35_NEG_N_COL_ORIG_V001-Photo-Credit-Jill-Greenberg-e1667974334479.jpg",
+      "file": "song_08"
+    },
+    {
+      "title": "Amy Winehouse - You Know I'm No Good",
+      "singer": "Amy Winehouse",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/rRRqoOCicjgaglT9M4HwZpwf6uE/437x0:3321x2884/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/10/09/924/n/1922398/00228af35f80d21044b003.87519436_/i/Amy-Winehouse.jpg",
+      "file": "song_09"
+    },
+    {
+      "title": "Anne Marie - 2002",
+      "singer": "Anne Marie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anne-Marie-4250_%28cropped%29.jpg/1200px-Anne-Marie-4250_%28cropped%29.jpg",
+      "file": "song_10"
     }
   ]
 }

@@ -39,6 +39,11 @@ class MusicImpl : Music {
             "song_03" -> R.raw.song_03
             "song_04" -> R.raw.song_04
             "song_05" -> R.raw.song_05
+            "song_06" -> R.raw.song_06
+            "song_07" -> R.raw.song_07
+            "song_08" -> R.raw.song_08
+            "song_09" -> R.raw.song_09
+            "song_10" -> R.raw.song_10
             else -> 0
         }
 

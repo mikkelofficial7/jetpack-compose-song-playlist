@@ -1,6 +1,5 @@
 package com.example.musicplaylistapp.uicomponent
 
-import android.R.attr.maxLines
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectTapGestures
