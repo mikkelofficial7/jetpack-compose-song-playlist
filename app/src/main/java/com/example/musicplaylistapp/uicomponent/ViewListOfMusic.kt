@@ -21,7 +21,6 @@ import coil.compose.rememberAsyncImagePainter
 import com.example.musicplaylistapp.R
 import com.example.musicplaylistapp.ViewModels
 import com.example.musicplaylistapp.music.model.MusicModel
-import com.example.musicplaylistapp.ui.theme.Red500
 import com.example.musicplaylistapp.ui.theme.White1000
 
 @OptIn(ExperimentalFoundationApi::class)
