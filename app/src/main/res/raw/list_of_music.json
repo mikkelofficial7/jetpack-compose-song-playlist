@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "musics": [
+    {
+       "title": "4 Non Blondes - What's up",
+       "singer": "4 Non Blondes",
+       "image": "https://m.media-amazon.com/images/M/MV5BZTViNTZmZDUtNjBmZS00NDkzLWFlZTktOTZlZGIyZTA0ZjBhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+       "file": "song_01"
+    },
+    {
+      "title": "Adele - Easy On Me",
+      "singer": "Adele",
+      "image": "https://cdn.antaranews.com/cache/800x533/2021/12/01/D4E2B671-4282-4FCE-971C-3FB7061A7375.jpeg",
+      "file": "song_02"
+    },
+    {
+      "title": "Aerosmith - I Dont Wanna Miss A Thing",
+      "singer": "Aerosmith",
+      "image": "https://infomase.id/wp-content/uploads/2022/12/NjAwMi5qcGVn.jpeg",
+      "file": "song_03"
+    },
+    {
+      "title": "3 Doors Down - Here Without You",
+      "singer": "3 Doors Down",
+      "image": "https://m.media-amazon.com/images/I/71-bwG4j2ZL._UF1000,1000_QL80_.jpg",
+      "file": "song_04"
+    },
+    {
+      "title": "88 Risings ft. Joji, Rich Brian, Higher Brothers - Midsummer Madness",
+      "singer": "88 Risings ft. Joji, Rich Brian, Higher Brothers",
+      "image": "https://video-images.vice.com/_uncategorized/1541087848225-88-rising-6.jpeg",
+      "file": "song_05"
+    }
+  ]
+}
