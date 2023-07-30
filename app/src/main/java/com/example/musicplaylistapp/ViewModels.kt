@@ -55,7 +55,7 @@ class ViewModels(private val context: Context) : ViewModel() {
         if(musicFileName.isEmpty()) return
         if(musicMediaPlayer != null) stopMusic()
 
-        musicMediaPlayer =  music.init(context, music.getPlaylistByName(musicFileName))
+        musicMediaPlayer =  music.init(context, music.getPlaylistByName(context, musicFileName))
         playMusic()
         playListPosition = position
     }

@@ -11,6 +11,10 @@ class MusicImpl : Music {
         return mediaPlayer
     }
 
+    override fun getPlaylistByName(context: Context, fileName: String): Int {
+        return context.resources.getIdentifier(fileName, "raw", context.packageName)
+    }
+
     override fun play(mediaPlayer: MediaPlayer) {
         mediaPlayer.start()
     }
@@ -22,30 +26,5 @@ class MusicImpl : Music {
     override fun stop(mediaPlayer: MediaPlayer) {
         mediaPlayer.pause()
         mediaPlayer.seekTo(0)
-    }
-
-    override fun nextTo(mediaPlayer: MediaPlayer) {
-
-    }
-
-    override fun prevTo(mediaPlayer: MediaPlayer) {
-
-    }
-
-    override fun getPlaylistByName(fileName: String): Int {
-        return when(fileName) {
-            "song_01" -> R.raw.song_01
-            "song_02" -> R.raw.song_02
-            "song_03" -> R.raw.song_03
-            "song_04" -> R.raw.song_04
-            "song_05" -> R.raw.song_05
-            "song_06" -> R.raw.song_06
-            "song_07" -> R.raw.song_07
-            "song_08" -> R.raw.song_08
-            "song_09" -> R.raw.song_09
-            "song_10" -> R.raw.song_10
-            else -> 0
-        }
-
     }
 }
